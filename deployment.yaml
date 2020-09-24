@@ -1,0 +1,3 @@
+model-name: databricks_labs_cicd_templates_sample_project
+experiment-path: /Shared/cicd
+cloud: AWS
