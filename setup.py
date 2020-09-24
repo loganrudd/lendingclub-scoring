@@ -6,5 +6,5 @@ setup(
     version='0.1.0',
     description='CICD PoC',
     author='Logan Rudd',
-    license='',
+    license='MIT Open Source',
 )
